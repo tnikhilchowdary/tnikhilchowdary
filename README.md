@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tnikhilchowdary
 - 👀 I’m interested in web devolpment
 - 🌱 I’m currently learning in BTech 2nd year
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 tnikhilchowdary@gmail.com/8919981303
 
 <!---
