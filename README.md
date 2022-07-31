@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tnikhilchowdary
 - 👀 I’m interested in web devolpment
-- 🌱 I’m currently learning in BTech 2nd year
+- 🌱 I’m currently Final year Computer Science student looking for internship
 - 💞️ I’m looking to collaborate
 - 📫 tnikhilchowdary@gmail.com/8919981303
 
