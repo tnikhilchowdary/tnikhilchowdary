@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Nikhil Chowdary</h1>
 <h3 align="center">Full-Stack Developer | React | Node.js | Data Analyst</h3>
 
@@ -41,7 +40,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tnikhilchowdary&theme=onedark&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tnikhilchowdary&theme=onedark&column=7&no-frame=true&no-bg=true&margin-w=10&margin-h=15" />
 </p>
 
 ---
@@ -65,3 +64,4 @@
 ---
 
 > *“Hard work beats talent when talent doesn’t work hard.”*
+
