@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chowdary</h1>
-<h3 align="center">Full-Stack Developer | React | Node.js | Data Analyst</h3>
+<h3 align="center">Full-Stack Developer | React | Node.js |</h3>
 
 <p align="center">
   <a href="https://github.com/tnikhilchowdary">
