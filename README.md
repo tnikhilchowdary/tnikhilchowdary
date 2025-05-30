@@ -12,7 +12,7 @@
 ### 🔥 About Me
 
 - 🎓 Master's in Computer Science @ Chicago State University  
-- 💻 Passionate about **React**, **Node.js**, and **Data Analytics**
+- 💻 Passionate about **React**, **Node.js**
 - 🌱 Learning TypeScript + building full-stack projects
 - 📫 Email: [tnikhilchowdary@gmail.com](mailto:tnikhilchowdary@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/t-nikhil-chowdary)
