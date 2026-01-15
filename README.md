@@ -1,67 +1,109 @@
 <h1 align="center">Hi 👋, I'm Nikhil Chowdary</h1>
-<h3 align="center">Full-Stack Developer | React | Node.js |</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | React | Node.js</h3>
 
 <p align="center">
   <a href="https://github.com/tnikhilchowdary">
-    <img src="https://komarev.com/ghpvc/?username=tnikhilchowdary&label=Profile%20views&color=0e75b6&style=flat" alt="tnikhilchowdary" />
+    <img src="https://komarev.com/ghpvc/?username=tnikhilchowdary&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
 ---
 
-### 🔥 About Me
+## 👨‍💻 About Me
 
-- 🎓 Master's in Computer Science @ Chicago State University  
-- 💻 Passionate about **React**, **Node.js**
-- 🌱 Learning TypeScript + building full-stack projects
-- 📫 Email: [tnikhilchowdary@gmail.com](mailto:tnikhilchowdary@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/t-nikhil-chowdary)
-
----
-
-### ⚙️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, PostgreSQL
-- **Analytics:** Python, Pandas, Tableau, Power BI
+- 🎓 **Master’s in Computer Science** — Chicago State University  
+- 💻 Full-Stack Developer with hands-on experience in **React & Node.js**  
+- 🌱 Currently learning **TypeScript** and building real-world full-stack projects  
+- 🧠 Strong understanding of **CRUD operations, REST APIs, and component-based UI**  
+- 📫 Email: **tnikhilchowdary@gmail.com**  
+- 🔗 LinkedIn: https://linkedin.com/in/t-nikhil-chowdary  
 
 ---
 
-### 🚀 GitHub Stats
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML, CSS, JavaScript (ES6+)
+- React, React Router
+
+### Backend
+- Node.js, Express.js
+- RESTful APIs
+
+### Databases
+- MongoDB
+- PostgreSQL
+
+### Analytics & Tools
+- Python, Pandas
+- Tableau, Power BI
+- Git, GitHub, VS Code, Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Nice Forms — Full Stack Application
+🔗 https://github.com/tnikhilchowdary/forms  
+**Tech:** React, Node.js, Express, MongoDB  
+- User form submission and validation  
+- Backend API integration  
+- CRUD operations  
+- Modular full-stack structure  
+
+---
+
+### 🔹 React To-Do Application
+🔗 https://github.com/tnikhilchowdary/ToDoList  
+**Tech:** React  
+- Create, update, and delete tasks  
+- State management using React hooks  
+- Clean component-based architecture  
+
+---
+
+### 🔹 Chicago Router Project
+🔗 https://github.com/tnikhilchowdary/Chicago-basic-router  
+**Tech:** React Router  
+- Multi-page navigation  
+- Route-based component rendering  
+- Beginner-friendly routing structure  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnikhilchowdary&show_icons=true&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnikhilchowdary&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tnikhilchowdary&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnikhilchowdary&layout=compact&theme=github_dark" width="48%"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tnikhilchowdary&theme=onedark&column=7&no-frame=true&no-bg=true&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tnikhilchowdary&theme=onedark&column=6&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-### ✨ Featured Projects
-
-- 🔗 [Nice Forms – Full Stack](https://github.com/tnikhilchowdary/forms)
-- 🔗 [React To-Do App](https://github.com/tnikhilchowdary/ToDoList)
-- 🔗 [Chicago Router Project](https://github.com/tnikhilchowdary/Chicago-basic-router)
-
----
-
-### 📩 Let’s Connect!
+## 📬 Let’s Connect
 
 <p align="center">
-  <a href="mailto:tnikhilchowdary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/t-nikhil-chowdary"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tnikhilchowdary"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:tnikhilchowdary@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/t-nikhil-chowdary">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tnikhilchowdary">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-> *“Hard work beats talent when talent doesn’t work hard.”*
+<p align="center"><i>“Hard work beats talent when talent doesn’t work hard.”</i></p>
+
 
