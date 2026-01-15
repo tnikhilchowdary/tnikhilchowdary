@@ -34,10 +34,7 @@
 - MongoDB
 - PostgreSQL
 
-### Analytics & Tools
-- Python, Pandas
-- Tableau, Power BI
-- Git, GitHub, VS Code, Postman
+
 
 ---
 
