@@ -42,24 +42,6 @@
 ---
 
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnikhilchowdary&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnikhilchowdary&layout=compact&theme=github_dark" width="48%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tnikhilchowdary&theme=onedark&column=6&no-frame=true&no-bg=true" />
-</p>
-
----
-
 ## 📬 Let’s Connect
 
 <p align="center">
