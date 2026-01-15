@@ -42,9 +42,9 @@
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="mailto:tnikhilchowdary@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tnikhilchowdary@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <a href="https://tnc-portifolo.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
