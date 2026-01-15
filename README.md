@@ -15,7 +15,10 @@
 - 💻 Full-Stack Developer with hands-on experience in **React & Node.js**  
 - 🌱 Currently learning **TypeScript** and building real-world full-stack projects  
 - 🧠 Strong understanding of **CRUD operations, REST APIs, and component-based UI**  
-- 📫 Email: **tnikhilchowdary@gmail.com**  
+
+**Contact**
+- 📧 Email: **tnikhilchowdary@gmail.com**  
+- 🌐 Portfolio: **https://tnc-portifolo.vercel.app/**  
 - 🔗 LinkedIn: https://linkedin.com/in/t-nikhil-chowdary  
 
 ---
@@ -34,16 +37,16 @@
 - MongoDB
 - PostgreSQL
 
-
-
 ---
-
 
 ## 📬 Let’s Connect
 
 <p align="center">
   <a href="mailto:tnikhilchowdary@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tnc-portifolo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/t-nikhil-chowdary">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -56,5 +59,4 @@
 ---
 
 <p align="center"><i>“Hard work beats talent when talent doesn’t work hard.”</i></p>
-
 
