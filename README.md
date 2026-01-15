@@ -41,35 +41,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔹 Nice Forms — Full Stack Application
-🔗 https://github.com/tnikhilchowdary/forms  
-**Tech:** React, Node.js, Express, MongoDB  
-- User form submission and validation  
-- Backend API integration  
-- CRUD operations  
-- Modular full-stack structure  
-
----
-
-### 🔹 React To-Do Application
-🔗 https://github.com/tnikhilchowdary/ToDoList  
-**Tech:** React  
-- Create, update, and delete tasks  
-- State management using React hooks  
-- Clean component-based architecture  
-
----
-
-### 🔹 Chicago Router Project
-🔗 https://github.com/tnikhilchowdary/Chicago-basic-router  
-**Tech:** React Router  
-- Multi-page navigation  
-- Route-based component rendering  
-- Beginner-friendly routing structure  
-
----
 
 ## 📊 GitHub Stats
 
