@@ -1,62 +1,90 @@
-<h1 align="center">Hi 👋, I'm Nikhil Chowdary</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | React | Node.js</h3>
+# Hi 👋, I'm Nikhil Chowdary
 
-<p align="center">
-  <a href="https://github.com/tnikhilchowdary">
-    <img src="https://komarev.com/ghpvc/?username=tnikhilchowdary&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+### Senior Full-Stack Developer | React.js | Java | MERN Stack | Microservices
+
+![](https://komarev.com/ghpvc/?username=tnikhilchowdary&color=blue)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Master’s in Computer Science** — Chicago State University  
-- 💻 Full-Stack Developer with hands-on experience in **React & Node.js**  
-- 🌱 Currently learning **TypeScript** and building real-world full-stack projects  
-- 🧠 Strong understanding of **CRUD operations, REST APIs, and component-based UI**  
-
-**Contact**
-- 📧 Email: **nikhil.coders@gmail.com**  
-- 🌐 Portfolio: **https://portifolo-nikhil.vercel.app/**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/nikhil-t-10a89b237/  
+- 💼 **8+ Years of Experience** in Full-Stack Development
+- 🎓 Master's in Computer Science — Chicago State University
+- 🚀 Specialized in building **scalable enterprise web applications**
+- ⚡ Strong expertise in **React.js, Java, Spring Boot, Node.js**
+- 🧠 Experienced in **Microservices Architecture and REST API development**
+- 🌐 Hands-on experience with **MERN Stack development**
+- ☁️ Cloud experience with **AWS / Azure**
+- 📊 Strong knowledge of **Database Design and System Integration**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
-- HTML, CSS, JavaScript (ES6+)
-- React, React Router
+- React.js
+- Redux / Context API
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- React Router
 
 ### Backend
-- Node.js, Express.js
-- RESTful APIs
+- Java
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
+- Microservices Architecture
+- JWT Authentication
+- GraphQL
 
 ### Databases
 - MongoDB
 - PostgreSQL
+- MySQL
+- SQL Server
+
+### Cloud & DevOps
+- AWS (EC2, S3, Lambda)
+- Azure Cloud
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- GitHub Actions
+
+### Tools & Platforms
+- Git
+- GitHub
+- Jira
+- Jenkins
+- Agile / Scrum
 
 ---
 
-## 📬 Let’s Connect
+## 📌 Key Expertise
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tnikhilchowdary@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-  <a href="https://tnc-portifolo.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/t-nikhil-chowdary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tnikhilchowdary">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+✔ Full-Stack Web Application Development  
+✔ Enterprise Application Architecture  
+✔ RESTful API Design  
+✔ Microservices Development  
+✔ Performance Optimization  
+✔ Scalable Cloud Deployments  
 
 ---
 
-<p align="center"><i>“Hard work beats talent when talent doesn’t work hard.”</i></p>
+## 📫 Contact
+
+📧 Email: your-email@gmail.com  
+🌐 Portfolio: https://portfolio-nikhil.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/t-nikhil-chowdary  
+
+---
+
+## 🤝 Let's Connect
+
+If you're looking for a **Senior Full-Stack Developer with strong React and Java experience**, feel free to connect!
 
