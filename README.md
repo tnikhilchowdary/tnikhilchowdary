@@ -3,11 +3,11 @@
 <h3 align="center">Senior Full-Stack Developer | React.js | Java | MERN Stack | Microservices</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=8%2B+Years+Full+Stack+Experience;React+%7C+Java+%7C+MERN+Stack;Building+Scalable+Enterprise+Applications;Microservices+%7C+Cloud+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Applications;React+%7C+Java+%7C+MERN+Stack;Microservices+Architecture;Cloud+Native+Applications"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tnikhilchowdary&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=tnikhilchowdary&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ✔ Specialized in **Enterprise Web Applications**  
 ✔ Strong expertise in **React.js, Java, Spring Boot, Node.js**  
 ✔ Experience with **Microservices & REST API architecture**  
-✔ Hands-on experience with **MERN Stack**  
+✔ Hands-on experience with **MERN Stack development**  
 ✔ Cloud experience with **AWS & Azure**  
 ✔ Strong background in **Database Design & System Integration**
 
@@ -29,27 +29,27 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,redux" />
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
 ### Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins"/>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,vscode" />
 </p>
 
 ---
@@ -58,8 +58,8 @@
 
 ✔ Full-Stack Application Development  
 ✔ Enterprise Architecture  
-✔ REST API Development  
-✔ Microservices Architecture  
+✔ RESTful API Design  
+✔ Microservices Development  
 ✔ Performance Optimization  
 ✔ Cloud Deployment & CI/CD  
 
@@ -79,7 +79,8 @@
 
 # 🌐 Connect With Me
 
-📧 Email: your-email@gmail.com  
+📧 Email  
+your-email@gmail.com  
 
 💼 LinkedIn  
 https://www.linkedin.com/in/t-nikhil-chowdary  
