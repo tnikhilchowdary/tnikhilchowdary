@@ -25,33 +25,36 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,redux" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
 
 ### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-20232A?style=for-the-badge&logo=spring)
+![NodeJS](https://img.shields.io/badge/NodeJS-20232A?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/ExpressJS-20232A?style=for-the-badge&logo=express)
 
 ### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql)
 
 ### Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-20232A?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes)
 
 ### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,vscode" />
-</p>
-
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
+![Jenkins](https://img.shields.io/badge/Jenkins-20232A?style=for-the-badge&logo=jenkins)
 ---
 
 # 🚀 Key Expertise
