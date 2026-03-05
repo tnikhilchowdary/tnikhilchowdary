@@ -17,9 +17,9 @@
 - 🧠 Strong understanding of **CRUD operations, REST APIs, and component-based UI**  
 
 **Contact**
-- 📧 Email: **tnikhilchowdary@gmail.com**  
-- 🌐 Portfolio: **https://tnc-portifolo.vercel.app/**  
-- 🔗 LinkedIn: https://linkedin.com/in/t-nikhil-chowdary  
+- 📧 Email: **nikhil.coders@gmail.com**  
+- 🌐 Portfolio: **https://portifolo-nikhil.vercel.app/**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nikhil-t-10a89b237/  
 
 ---
 
